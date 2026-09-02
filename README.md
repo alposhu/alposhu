@@ -73,20 +73,20 @@ An interactive digital canvas that lets educators build custom worksheets in min
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alperen's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alposhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alperen's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alposhu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=alposhu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=-1" alt="GitHub Trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=alposhu&theme=tokyonight&no-frame=true&column=-1" alt="GitHub Trophies" width="100%"/>
 </div>
 
 > [!IMPORTANT]
-> Swap **`YOUR_GITHUB_USERNAME`** for your real GitHub username in the 4 image URLs above, then delete this note — the widgets stay blank until you do.
+> Swap **`alposhu`** for your real GitHub username in the 4 image URLs above, then delete this note — the widgets stay blank until you do.
 
 ---
 
@@ -98,7 +98,7 @@ An interactive digital canvas that lets educators build custom worksheets in min
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=38BDF8&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=alposhu&color=38BDF8&style=flat)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
 
