@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=180&section=header&text=Hey,%20I%27m%20Alperen&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=120&section=header" width="100%"/>
+
   <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=58&pause=5000&color=FFFFFF&vCenter=true&width=490&height=115&lines=Hey%2C+I'm+Alperen" alt="Hey, I'm Alperen" />
     <picture>
       <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f433/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f433/512.gif" alt="🐳" width="36" height="36">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f433/512.gif" alt="🐳" width="115" height="115">
     </picture>
   </p>
 
@@ -23,11 +24,11 @@
 
 ---
 
-### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="22" height="22"></picture> What I'm Working On
+### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="28" height="28" style="vertical-align: middle;"></picture> What I'm Working On
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="60%" valign="middle">
       <h4><a href="https://yourworksheets.com">YourWorksheets.com</a> &mdash; Founder & Lead Engineer</h4>
       <p>An interactive digital canvas platform enabling educators to design structured worksheets in minutes. Integrates real-time multimodal generative AI via <b>Google Gemini</b> and <b>OpenAI</b> to automate dynamic curriculum layout generation.</p>
       <p>
@@ -35,20 +36,20 @@
         <img src="https://img.shields.io/badge/Domain-EdTech%20Canvas-38BDF8?style=flat-square" alt="Domain"/>
       </p>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <a href="https://yourworksheets.com">
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=0F172A&text=YourWorksheets&fontSize=20&fontColor=38BDF8&height=100&width=200" alt="YourWorksheets Preview"/>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://yourworksheets.com" target="_blank">
+        <img src="./assets/yourworksheets-banner.webp" alt="YourWorksheets.com Banner" width="280" style="border-radius: 8px;"/>
       </a>
     </td>
   </tr>
 </table>
 
-* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="18" height="18"></picture> **Autonomous & Structured AI Agents:** Building deterministic, production-grade agentic architectures with structured JSON outputs, strict tool-calling policies, and secure human-in-the-loop validation layers.
-* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5a5/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5a5/512.gif" alt="🖥️" width="18" height="18"></picture> **Interactive Web Systems:** Designing ultra-responsive HTML5 canvases, modular gamified UI components, and real-time state synchronization tailored for digital classrooms.
+* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="24" height="24" style="vertical-align: middle;"></picture> **Autonomous & Structured AI Agents:** Building deterministic, production-grade agentic architectures with structured JSON outputs, strict tool-calling policies, and secure human-in-the-loop validation layers.
+* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="32" height="32" style="vertical-align: middle;"></picture> **Interactive Web Systems:** Designing ultra-responsive HTML5 canvases, modular gamified UI components, and real-time state synchronization tailored for digital classrooms.
 
 ---
 
-### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.gif" alt="🛠️" width="22" height="22"></picture> Tech Stack & Ecosystem
+### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" alt="🛠️" width="28" height="28" style="vertical-align: middle;"></picture> Tech Stack & Ecosystem
 
 <p align="left">
   <b>AI & Agent Engineering</b><br/>
@@ -78,7 +79,7 @@
 
 ---
 
-### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="22" height="22"></picture> GitHub Activity
+### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="28" height="28" style="vertical-align: middle;"></picture> GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=alposhu&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="98%"/>
@@ -90,11 +91,11 @@
 
 ---
 
-### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ec/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ec/512.gif" alt="📬" width="22" height="22"></picture> Let's Connect
+### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d_1f3fb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d_1f3fb/512.gif" alt="🤝" width="32" height="32" style="vertical-align: middle;"></picture> Let's Connect
 
-* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" alt="💼" width="18" height="18"></picture> Connect on [LinkedIn](https://linkedin.com/in/alperen-karabiyik-6558951b1) for product, EdTech, and AI discussions.
-* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="18" height="18"></picture> Follow [@alposhu](https://www.instagram.com/alposhu/) on Instagram for creative updates and casual chats.
-* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" alt="🌐" width="18" height="18"></picture> Explore live production builds on [YourWorksheets.com](https://yourworksheets.com).
+* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26d3_fe0f_200d_1f4a5/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26d3_fe0f_200d_1f4a5/512.gif" alt="⛓" width="32" height="32" style="vertical-align: middle;"></picture> Connect on [LinkedIn](https://linkedin.com/in/alperen-karabiyik-6558951b1) for product, EdTech, and AI discussions.
+* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="32" height="32" style="vertical-align: middle;"></picture> Follow [@alposhu](https://www.instagram.com/alposhu/) on Instagram for creative updates and casual chats.
+* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" alt="🌍" width="32" height="32" style="vertical-align: middle;"></picture> Explore live production builds on [YourWorksheets.com](https://yourworksheets.com).
 
 <div align="center">
   <br/>
