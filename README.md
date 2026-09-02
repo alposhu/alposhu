@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,42&height=180&section=header&text=Hey,%20I'm%20Alperen%20🐳&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  
+  <p align="center">
+    <strong>Full-Stack Builder &bull; EdTech Innovator &bull; AI Agent Architecture</strong>
+  </p>
 
-<!--
-**alposhu/alposhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+    <a href="https://linkedin.com/in/alperen-karabiyik-6558951b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/alposhu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  </p>
 
-Here are some ideas to get you started:
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Building+Next-Gen+EdTech+Platforms;Architecting+Reliable+Generative+AI+Agents;Crafting+Fluid,+Interactive+User+Experiences" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Working On
+
+* **[YourWorksheets.com](https://yourworksheets.com)** — Founder & Developer. An interactive digital canvas platform enabling educators to create custom worksheets effortlessly. Features embedded multimodal AI pipelines powered by **Google Gemini** and **OpenAI** for automated layout and curriculum-aligned worksheet generation.
+* **Autonomous & Structured AI Agents** — Developing deterministic, secure, and production-ready agentic architectures focused on tool calling, strict validation protocols, and human-in-the-loop workflows.
+* **Interactive Web Systems** — Combining lightweight web canvases, gamified interfaces, and real-time state sync to elevate classroom engagement.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<p align="left">
+  <b>AI & Agent Engineering</b><br/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Claude%20API-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Prompt%20Architecture-10B981?style=flat-square&logo=codementor&logoColor=white" alt="Agents"/>
+</p>
+
+<p align="left">
+  <b>Frontend & Canvas Engineering</b><br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+</p>
+
+<p align="left">
+  <b>Backend, Cloud & Tooling</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="94%"/>
+</div>
+
+---
+
+### 📬 Get In Touch
+
+* 💼 Connect on [LinkedIn](https://linkedin.com/in/alperen-karabiyik-6558951b1) for product, EdTech, and AI discussions.
+* 📸 Reach out on [Instagram @alposhu](https://www.instagram.com/alposhu/) for creative projects and casual chats.
+* 🌐 Explore what I'm building live at [YourWorksheets.com](https://yourworksheets.com).
