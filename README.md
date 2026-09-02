@@ -86,7 +86,7 @@
 </div>
 
 <div align="center" style="margin-top: 14px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alposhu&theme=tokyo-night&hide_border=true&area=true&color=38BDF8&line=38BDF8&point=ffffff" alt="Contribution Graph" width="98%"/>
+  <img src="https://ghchart.rshah.org/38BDF8/alposhu" alt="Alperen's Contribution Heatmap" width="98%"/>
 </div>
 
 ---
