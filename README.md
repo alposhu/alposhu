@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=180&section=header&text=Hey,%20I%27m%20Alperen&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
+  
   <p align="center">
     <picture>
       <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f433/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f433/512.gif" alt="🐳" width="32" height="32">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f433/512.gif" alt="🐳" width="36" height="36">
     </picture>
   </p>
 
@@ -13,9 +13,9 @@
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/alperen-karabiyik-6558951b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.instagram.com/alposhu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://yourworksheets.com"><img src="https://img.shields.io/badge/YourWorksheets.com-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+    <a href="https://linkedin.com/in/alperen-karabiyik-6558951b1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/alposhu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://yourworksheets.com" target="_blank"><img src="https://img.shields.io/badge/YourWorksheets.com-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   </p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+Next-Gen+EdTech+Platforms;Architecting+Reliable+Generative+AI+Agents;Crafting+Fluid,+Interactive+User+Experiences" alt="Typing SVG" />
@@ -23,38 +23,39 @@
 
 ---
 
-### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="24" height="24"></picture> What I'm Working On
+### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="22" height="22"></picture> What I'm Working On
 
 <table>
-<tr>
-<td width="70%" valign="top">
-
-**[YourWorksheets.com](https://yourworksheets.com)** — Founder & Developer
-<br/>
-An interactive digital canvas that lets educators build custom worksheets in minutes. Multimodal AI pipelines powered by **Google Gemini** and **OpenAI** handle automated layout and curriculum-aligned worksheet generation.
-
-</td>
-<td width="30%" align="center">
-
-[![Visit Site](https://img.shields.io/badge/Visit_Site-38BDF8?style=for-the-badge)](https://yourworksheets.com)
-
-</td>
-</tr>
+  <tr>
+    <td width="65%" valign="top">
+      <h4><a href="https://yourworksheets.com">YourWorksheets.com</a> &mdash; Founder & Lead Engineer</h4>
+      <p>An interactive digital canvas platform enabling educators to design structured worksheets in minutes. Integrates real-time multimodal generative AI via <b>Google Gemini</b> and <b>OpenAI</b> to automate dynamic curriculum layout generation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Active%20Production-10B981?style=flat-square" alt="Status"/>
+        <img src="https://img.shields.io/badge/Domain-EdTech%20Canvas-38BDF8?style=flat-square" alt="Domain"/>
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <a href="https://yourworksheets.com">
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=0F172A&text=YourWorksheets&fontSize=20&fontColor=38BDF8&height=100&width=200" alt="YourWorksheets Preview"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
-- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="20" height="20"></picture> **Autonomous & Structured AI Agents** — deterministic, secure, production-ready agentic architectures: tool calling, strict validation protocols, and human-in-the-loop workflows.
-- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5a5/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5a5/512.gif" alt="🖥️" width="20" height="20"></picture> **Interactive Web Systems** — lightweight web canvases, gamified interfaces, and real-time state sync that make classroom engagement more fluid.
+* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="18" height="18"></picture> **Autonomous & Structured AI Agents:** Building deterministic, production-grade agentic architectures with structured JSON outputs, strict tool-calling policies, and secure human-in-the-loop validation layers.
+* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5a5/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5a5/512.gif" alt="🖥️" width="18" height="18"></picture> **Interactive Web Systems:** Designing ultra-responsive HTML5 canvases, modular gamified UI components, and real-time state synchronization tailored for digital classrooms.
 
 ---
 
-### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.gif" alt="🛠️" width="24" height="24"></picture> Tech Stack & Ecosystem
+### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.gif" alt="🛠️" width="22" height="22"></picture> Tech Stack & Ecosystem
 
 <p align="left">
   <b>AI & Agent Engineering</b><br/>
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Claude%20API-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API"/>
-  <img src="https://img.shields.io/badge/Agent%20Architecture-10B981?style=flat-square" alt="Agent Architecture"/>
+  <img src="https://img.shields.io/badge/Agentic%20Workflows-10B981?style=flat-square&logo=codementor&logoColor=white" alt="Agent Architecture"/>
 </p>
 
 <p align="left">
@@ -77,33 +78,25 @@ An interactive digital canvas that lets educators build custom worksheets in min
 
 ---
 
-### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="24" height="24"></picture> GitHub Activity
+### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="22" height="22"></picture> GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alposhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alperen's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alposhu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=alposhu&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" width="98%"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=alposhu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alposhu&theme=tokyonight&no-frame=true&column=-1" alt="GitHub Trophies" width="100%"/>
+<div align="center" style="margin-top: 14px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alposhu&theme=tokyo-night&hide_border=true&area=true&color=38BDF8&line=38BDF8&point=ffffff" alt="Contribution Graph" width="98%"/>
 </div>
 
 ---
 
-### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ec/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ec/512.gif" alt="📬" width="24" height="24"></picture> Let's Connect
+### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ec/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ec/512.gif" alt="📬" width="22" height="22"></picture> Let's Connect
 
-- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" alt="💼" width="20" height="20"></picture> **[Connect on LinkedIn](https://linkedin.com/in/alperen-karabiyik-6558951b1)** for product, EdTech, and AI conversations
-- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="20" height="20"></picture> **[@alposhu on Instagram](https://www.instagram.com/alposhu/)** for creative projects and casual chats
-- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" alt="🌐" width="20" height="20"></picture> **[yourworksheets.com](https://yourworksheets.com)** to see what I'm building, live
+* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" alt="💼" width="18" height="18"></picture> Connect on [LinkedIn](https://linkedin.com/in/alperen-karabiyik-6558951b1) for product, EdTech, and AI discussions.
+* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="18" height="18"></picture> Follow [@alposhu](https://www.instagram.com/alposhu/) on Instagram for creative updates and casual chats.
+* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" alt="🌐" width="18" height="18"></picture> Explore live production builds on [YourWorksheets.com](https://yourworksheets.com).
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=alposhu&color=38BDF8&style=flat)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
-
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
 </div>
