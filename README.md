@@ -38,7 +38,7 @@
     </td>
     <td width="42%" align="center" valign="middle">
       <a href="https://yourworksheets.com" target="_blank">
-        <img src="./your-file-name.png" alt="YourWorksheets.com Banner" width="300" style="border-radius: 10px; max-width: 100%;"/>
+        <img src="https://raw.githubusercontent.com/alposhu/alposhu/main/yourworksheets-banner.png" alt="YourWorksheets.com Banner" width="300" style="border-radius: 10px; max-width: 100%;"/>
       </a>
     </td>
   </tr>
