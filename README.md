@@ -28,7 +28,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="middle">
+    <td width="58%" valign="middle">
       <h4><a href="https://yourworksheets.com">YourWorksheets.com</a> &mdash; Founder & Lead Engineer</h4>
       <p>An interactive digital canvas platform enabling educators to design structured worksheets in minutes. Integrates real-time multimodal generative AI via <b>Google Gemini</b> and <b>OpenAI</b> to automate dynamic curriculum layout generation.</p>
       <p>
@@ -36,9 +36,9 @@
         <img src="https://img.shields.io/badge/Domain-EdTech%20Canvas-38BDF8?style=flat-square" alt="Domain"/>
       </p>
     </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="42%" align="center" valign="middle">
       <a href="https://yourworksheets.com" target="_blank">
-        <img src="./assets/yourworksheets-banner.webp" alt="YourWorksheets.com Banner" width="280" style="border-radius: 8px;"/>
+        <img src="./your-file-name.png" alt="YourWorksheets.com Banner" width="300" style="border-radius: 10px; max-width: 100%;"/>
       </a>
     </td>
   </tr>
